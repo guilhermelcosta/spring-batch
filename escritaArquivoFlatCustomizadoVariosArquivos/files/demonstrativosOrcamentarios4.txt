@@ -1,0 +1,13 @@
+SISTEMA INTEGRADO: GUILHERME 			 DATA: 2023-11-30
+HORA DE IMPRESSÃO: 17:30 				 LOCAL: BELO HORIZONTE
+-------------------------------------------------------------------
+[CODIGO] NOME - VALOR
+	 [Data] Descrição - Valor
+-------------------------------------------------------------------
+
+ [44905218] COLEÇÕES E MATERIAIS BIBLIOGRÁFICOS - $8,000.00
+	 [11/05/2020] Livro de Algoritmos - $4,000.00
+	 [12/05/2020] Dicionários - $4,000.00
+
+-------------------------------------------------------------------
+TOTAL GERAL: $0.00

@@ -1,0 +1,14 @@
+SISTEMA INTEGRADO: GUILHERME 			 DATA: 2023-11-30
+HORA DE IMPRESSÃO: 17:30 				 LOCAL: BELO HORIZONTE
+-------------------------------------------------------------------
+[CODIGO] NOME - VALOR
+	 [Data] Descrição - Valor
+-------------------------------------------------------------------
+
+ [33903024] MATERIAL P/ MANUT. DE BENS IMÓVEIS/INSTALAÇÕES - $16,000.00
+	 [11/05/2020] Aparelhos Sanitários - $6,000.00
+	 [12/05/2020] Cimento - $2,000.00
+	 [13/05/2020] Amianto - $8,000.00
+
+-------------------------------------------------------------------
+TOTAL GERAL: $0.00

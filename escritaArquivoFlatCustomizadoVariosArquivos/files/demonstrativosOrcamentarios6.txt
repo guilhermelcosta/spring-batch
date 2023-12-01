@@ -1,0 +1,12 @@
+SISTEMA INTEGRADO: GUILHERME 			 DATA: 2023-11-30
+HORA DE IMPRESSÃO: 17:30 				 LOCAL: BELO HORIZONTE
+-------------------------------------------------------------------
+[CODIGO] NOME - VALOR
+	 [Data] Descrição - Valor
+-------------------------------------------------------------------
+
+ [33903302] PASSAGENS PARA O EXTERIOR - $32,000.00
+	 [01/05/2020] Viagem para Las Vegas - $32,000.00
+
+-------------------------------------------------------------------
+TOTAL GERAL: $0.00
