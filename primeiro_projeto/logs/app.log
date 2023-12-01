@@ -1,0 +1,39 @@
+2023-11-14 09:30:09,284 INFO c.d.p.PrimeiroProjetoApplication [main] Starting PrimeiroProjetoApplication using Java 21.0.1 with PID 24852 (C:\Users\dti Digital\Desktop\primeiro_projeto\target\classes started by dtiDigital in C:\Users\dti Digital\Desktop\primeiro_projeto)
+2023-11-14 09:30:09,297 INFO c.d.p.PrimeiroProjetoApplication [main] No active profile set, falling back to 1 default profile: "default"
+2023-11-14 09:30:10,112 INFO o.s.c.a.ConfigurationClassEnhancer [main] @Bean method PropsConfig.config is non-static and returns an object assignable to Spring's BeanFactoryPostProcessor interface. This will result in a failure to process annotations such as @Autowired, @Resource and @PostConstruct within the method's declaring @Configuration class. Add the 'static' modifier to this method to avoid these container lifecycle issues; see @Bean javadoc for complete details.
+2023-11-14 09:30:10,752 INFO c.z.h.HikariDataSource [main] HikariPool-1 - Starting...
+2023-11-14 09:30:11,364 INFO c.z.h.p.HikariPool [main] HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@66933239
+2023-11-14 09:30:11,366 INFO c.z.h.HikariDataSource [main] HikariPool-1 - Start completed.
+2023-11-14 09:30:11,722 INFO c.d.p.PrimeiroProjetoApplication [main] Started PrimeiroProjetoApplication in 3.251 seconds (process running for 4.752)
+2023-11-14 09:30:11,865 INFO o.s.b.c.l.s.SimpleJobLauncher [main] Job: [SimpleJob: [name=imprimeOlaJob]] launched with the following parameters: [{'run.id':'{value=11, type=class java.lang.Long, identifying=true}','nome':'{value=Pedrok, type=class java.lang.String, identifying=true}'}]
+2023-11-14 09:30:11,914 INFO o.s.b.c.j.SimpleStepHandler [main] Executing step: [ImprimeOlaStepConfig]
+2023-11-14 09:30:11,951 INFO o.s.b.c.s.AbstractStep [main] Step: [ImprimeOlaStepConfig] executed in 35ms
+2023-11-14 09:30:11,982 INFO o.s.b.c.l.s.SimpleJobLauncher [main] Job: [SimpleJob: [name=imprimeOlaJob]] completed with the following parameters: [{'run.id':'{value=11, type=class java.lang.Long, identifying=true}','nome':'{value=Pedrok, type=class java.lang.String, identifying=true}'}] and the following status: [COMPLETED] in 92ms
+2023-11-14 09:30:11,988 INFO c.z.h.HikariDataSource [SpringApplicationShutdownHook] HikariPool-1 - Shutdown initiated...
+2023-11-14 09:30:11,998 INFO c.z.h.HikariDataSource [SpringApplicationShutdownHook] HikariPool-1 - Shutdown completed.
+2023-11-14 09:32:37,128 INFO c.d.p.PrimeiroProjetoApplication [main] Starting PrimeiroProjetoApplication using Java 21.0.1 with PID 8140 (C:\Users\dti Digital\Desktop\primeiro_projeto\target\classes started by dtiDigital in C:\Users\dti Digital\Desktop\primeiro_projeto)
+2023-11-14 09:32:37,139 INFO c.d.p.PrimeiroProjetoApplication [main] No active profile set, falling back to 1 default profile: "default"
+2023-11-14 09:32:37,806 INFO o.s.c.a.ConfigurationClassEnhancer [main] @Bean method PropsConfig.config is non-static and returns an object assignable to Spring's BeanFactoryPostProcessor interface. This will result in a failure to process annotations such as @Autowired, @Resource and @PostConstruct within the method's declaring @Configuration class. Add the 'static' modifier to this method to avoid these container lifecycle issues; see @Bean javadoc for complete details.
+2023-11-14 09:32:37,999 INFO c.z.h.HikariDataSource [main] HikariPool-1 - Starting...
+2023-11-14 09:32:38,432 INFO c.z.h.p.HikariPool [main] HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@7dffda8b
+2023-11-14 09:32:38,434 INFO c.z.h.HikariDataSource [main] HikariPool-1 - Start completed.
+2023-11-14 09:32:38,774 INFO c.d.p.PrimeiroProjetoApplication [main] Started PrimeiroProjetoApplication in 2.221 seconds (process running for 3.535)
+2023-11-14 09:32:38,921 INFO o.s.b.c.l.s.SimpleJobLauncher [main] Job: [SimpleJob: [name=imprimeOlaJob]] launched with the following parameters: [{'run.id':'{value=12, type=class java.lang.Long, identifying=true}','nome':'{value=Pedrok, type=class java.lang.String, identifying=true}'}]
+2023-11-14 09:32:38,977 INFO o.s.b.c.j.SimpleStepHandler [main] Executing step: [ImprimeOlaStepConfig]
+2023-11-14 09:32:39,016 INFO o.s.b.c.s.AbstractStep [main] Step: [ImprimeOlaStepConfig] executed in 36ms
+2023-11-14 09:32:39,044 INFO o.s.b.c.l.s.SimpleJobLauncher [main] Job: [SimpleJob: [name=imprimeOlaJob]] completed with the following parameters: [{'run.id':'{value=12, type=class java.lang.Long, identifying=true}','nome':'{value=Pedrok, type=class java.lang.String, identifying=true}'}] and the following status: [COMPLETED] in 97ms
+2023-11-14 09:32:39,050 INFO c.z.h.HikariDataSource [SpringApplicationShutdownHook] HikariPool-1 - Shutdown initiated...
+2023-11-14 09:32:39,060 INFO c.z.h.HikariDataSource [SpringApplicationShutdownHook] HikariPool-1 - Shutdown completed.
+2023-11-14 09:48:35,989 INFO c.d.p.PrimeiroProjetoApplication [main] Starting PrimeiroProjetoApplication using Java 21.0.1 with PID 22268 (C:\Users\dti Digital\Desktop\primeiro_projeto\target\classes started by dtiDigital in C:\Users\dti Digital\Desktop\primeiro_projeto)
+2023-11-14 09:48:35,998 INFO c.d.p.PrimeiroProjetoApplication [main] No active profile set, falling back to 1 default profile: "default"
+2023-11-14 09:48:36,586 INFO o.s.c.a.ConfigurationClassEnhancer [main] @Bean method PropsConfig.config is non-static and returns an object assignable to Spring's BeanFactoryPostProcessor interface. This will result in a failure to process annotations such as @Autowired, @Resource and @PostConstruct within the method's declaring @Configuration class. Add the 'static' modifier to this method to avoid these container lifecycle issues; see @Bean javadoc for complete details.
+2023-11-14 09:48:36,789 INFO c.z.h.HikariDataSource [main] HikariPool-1 - Starting...
+2023-11-14 09:48:37,221 INFO c.z.h.p.HikariPool [main] HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@6801b414
+2023-11-14 09:48:37,222 INFO c.z.h.HikariDataSource [main] HikariPool-1 - Start completed.
+2023-11-14 09:48:37,564 INFO c.d.p.PrimeiroProjetoApplication [main] Started PrimeiroProjetoApplication in 2.107 seconds (process running for 3.303)
+2023-11-14 09:48:37,737 INFO o.s.b.c.l.s.SimpleJobLauncher [main] Job: [SimpleJob: [name=imprimeOlaJob]] launched with the following parameters: [{'run.id':'{value=13, type=class java.lang.Long, identifying=true}','nome':'{value=Pedrok, type=class java.lang.String, identifying=true}'}]
+2023-11-14 09:48:37,819 INFO o.s.b.c.j.SimpleStepHandler [main] Executing step: [ImprimeOlaStepConfig]
+2023-11-14 09:48:37,883 INFO o.s.b.c.s.AbstractStep [main] Step: [ImprimeOlaStepConfig] executed in 62ms
+2023-11-14 09:48:37,927 INFO o.s.b.c.l.s.SimpleJobLauncher [main] Job: [SimpleJob: [name=imprimeOlaJob]] completed with the following parameters: [{'run.id':'{value=13, type=class java.lang.Long, identifying=true}','nome':'{value=Pedrok, type=class java.lang.String, identifying=true}'}] and the following status: [COMPLETED] in 143ms
+2023-11-14 09:48:37,937 INFO c.z.h.HikariDataSource [SpringApplicationShutdownHook] HikariPool-1 - Shutdown initiated...
+2023-11-14 09:48:37,953 INFO c.z.h.HikariDataSource [SpringApplicationShutdownHook] HikariPool-1 - Shutdown completed.
